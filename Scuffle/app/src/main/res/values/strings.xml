@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Scuffle</string>
+    <string name="PlayerScoreText">Player Honor:&#160;</string>
+    <string name="ComputerScoreText">&#160;Computer Honor:&#160;</string>
+    <string name="RoundText">Round:&#160;</string>
+    <string name="SelectedCard">Selected Card:&#160;</string>
+    <string name="InfoText">Info:&#160;</string>
+    <string name="InfoDefault">The Scuffle has started!</string>
+    <string name="TipWeaknesses"> Weaknesses: Mage&#160;-&gt;&#160;Warrior&#160;-&gt;&#160;Archer&#160;
+                            -&gt;&#160;Thief&#160;-&gt;&#160;Beast&#160;-&gt;&#160;Mage</string>
+
+    <string name="TipStrengths"> Strengths: Mage&#160;&lt;-&#160;Archer&#160;&lt;-&#160;Beast&#160;
+                            &lt;-&#160;Warrior&#160;&lt;-&#160;Thief&#160;&lt;-&#160;Mage</string>
+
+    <string name="InfoMageSpecial"> The Mage Special reveals all cards from the computer\'s hand.</string>
+    <string name="InfoWarriorSpecial"> The Warrior Special doubles the stakes of honor for the round.</string>
+    <string name="InfoArcherSpecial"> The Archer Special eliminates a targeted card from the computer\'s hand.</string>
+    <string name="InfoThiefSpecial"> The Thief Special swaps itself with a random card from computer\'s hand.</string>
+    <string name="InfoBeastSpecial"> The Beast Special mimics a random card you have previously played.</string>
+    <string name="Tip1"> Two Specials can be used per round. They have various effects.</string>
+    <string name="Tip2"> Specials are activated by discarding a selected card from your hand.</string>
+    <string name="Tip3"> 10 Rounds are played in a match. The stronger card wins its owner honor.</string>
+    <string name="Tip4"> Both players refill their hands with 5 fresh cards each round.</string>
+    <string name="Tip5"> Scuffle is an Android Workshop project by Henry H. and Kevin L.</string>
+    <string name="Tip6"> Scuffle is actually a reimplementation of the original game made by Henry H. and Kevin L.</string>
+    <string name="Tip7"> Scuffle is based on the Five-elements theory.</string>
+    <string name="Missing_Select_Continue">&#160;Please select a card to defend your honor!</string>
+    <string name="Missing_Select_Special">&#160;Select a card to perform a special if requested.</string>
+    <string name="Result_Victory">&#160;You win! Your honor is proven.</string>
+    <string name="Result_Defeat">&#160;You lose! The opponent has greater honor.</string>
+    <string name="Result_Tie">&#160;Tie game! You and your opponent have equal honor.</string>
+
+</resources>
